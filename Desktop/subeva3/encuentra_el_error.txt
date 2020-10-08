@@ -1,0 +1,17 @@
+Errores de Código
+
+Error #1 Funcion :empty(Cola*q) Línea de código: 2
+Explicacion del error: No se está poniendo la condición " ? true : false; "
+
+
+
+
+Error #2 Funcion void dequeue(Cola *q) Línea de código : 1
+Se tiene que poner El dato genérido T no void ya que con esta funcion void no devolveria un valor.
+
+
+Error #3 Funcion void dequeue(Cola *q) Linea de código: 9
+en la funcion (q->frente != NULL) con está asignación de difertente no estaría apuntando a un valor nulo si no apuntar a otro valor difrente de nulo
+
+
+
